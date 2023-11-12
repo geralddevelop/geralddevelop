@@ -2,6 +2,8 @@
 
 Welcome to my colorful corner of the code universe! 🌈✨ I'm Gerald, a passionate developer who loves turning coffee into code and dreams into projects. 🚀
 
+![Geralddevelop's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 ## 🚧 Current Project: Part-time Roster 
 
 🎉 Exciting times! I'm currently working on Part-time Roster , where pixels meet passion and bugs are squashed with joy. Join me on this coding rollercoaster!
