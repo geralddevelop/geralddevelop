@@ -4,20 +4,21 @@ Welcome to my colorful corner of the code universe! 🌈✨ I'm Gerald, a passio
 
 ## 🚧 Current Project: Part-time Roster 
 
-🎉 Exciting times! I'm currently working on Part-time Roster , where pixels meet passion and bugs are squashed with joy. Join me on this coding rollercoaster!
+🎉 Exciting times! I'm currently working on **Part-time Roster** , where pixels meet passion and bugs are squashed with joy. Join me on this coding rollercoaster!
 
-## 🛠️ Tech Stack Love
+## 🛠️ Tech Stack Now
 
-I speak in the languages of bits and bytes, with a soft spot for:
+I build my projects mainly with these frameworks and tech!
 
-- **JavaScript**: Making websites dance and sing.
-- **Python**: Because who doesn't love snakes that code?
-- **CoffeeScript**: For those moments when you need your code to be as smooth as a latte.
+- **React JS (Typescript)**: Make my web look pretty
+- **Flutter**: Why code 2 times when you can code once and ship for both IOS and Android? 🥰
+- **Django**: Go to backend for everything!
+- **Express JS**: Sometimes JS is the way to go
 
 ## 🌟 Fun Facts
 
-- **Emoji Enthusiast**: I believe every commit message is better with a sprinkle of emojis. 🎉
-- **Keyboard Maestro**: My keyboard is my dance floor, and I type to the rhythm of success.
+- **Everyday Coder**: Coding is like a hobby instead of a job, catch me coding new projects or researching on new tech every now and then 😜
+- **Avid Dancer**: Other than coding I love to dance, catch me during social nights!
 
 ## 📫 Connect with Me
 
@@ -25,6 +26,7 @@ Let's chat about code, life, and everything in between! You can find me on:
 - **LinkedIn**: [Gerald Heng](https://www.linkedin.com/in/gerald-heng-here/)
 - **Email**: geralddevelop@gmail.com
 
-## 🚀 Let's Build Something Awesome!
+## 🚀 Past Projects
+- **Everyday Bus App**: [Everyday](https://apps.apple.com/sg/app/sg-fastest-bus-alert-everyday/id6467117752)
+- **Meeting Pal (3rd place in GDS Hackathon 2023)**: [Meeting Pal](https://meetingpal.netlify.app/)
 
-Grab your favorite beverage, and let's turn ideas into lines of code that make the digital world brighter. Fork, clone, and let the coding adventures begin! ✨
