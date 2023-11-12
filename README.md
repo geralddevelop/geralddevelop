@@ -29,4 +29,5 @@ Let's chat about code, life, and everything in between! You can find me on:
 ## 🚀 Past Projects
 - **Everyday Bus App**: [Everyday](https://apps.apple.com/sg/app/sg-fastest-bus-alert-everyday/id6467117752)
 - **Meeting Pal (3rd place in GDS Hackathon 2023)**: [Meeting Pal](https://meetingpal.netlify.app/)
+- - **Carousell Scrapper**: Available on Telegram (Email me if you want to try)
 
