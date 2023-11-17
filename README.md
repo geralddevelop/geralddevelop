@@ -29,5 +29,6 @@ Let's chat about code, life, and everything in between! You can find me on:
 ## 🚀 Past Projects
 - **Everyday Bus App**: [Everyday](https://apps.apple.com/sg/app/sg-fastest-bus-alert-everyday/id6467117752)
 - **Meeting Pal (3rd place in GDS Hackathon 2023)**: [Meeting Pal](https://meetingpal.netlify.app/)
-- - **Carousell Scrapper**: Available on Telegram (Email me if you want to try)
+- **Carousell Scrapper**: [Available on Telegram (Email me if you want to try)](https://medium.com/@geralddevelop/build-your-own-carousell-real-time-alerts-in-a-weekend-a-step-by-step-coding-guide-for-beginners-927f56695b7e)
+- **Dance Results Dance Competitions**: [Dance Results](https://danceresults.app/)
 
